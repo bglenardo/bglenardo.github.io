@@ -17,8 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an experimental physicist studying fundamental particles and their interactions. In particular, I specialize in the development of instrumentation and techniques for ultra-low-background experiments searching for rare processes. My primary project at present is the nEXO experiment, which will search for the neutrinoless double beta decay of $^{136}$Xe using a liquid xenon time projection chamber (TPC). I am also involved in the development of detectors to search for coherent elastic neutrino-nucleus scattering (CE$\nu$NS) and WIMP dark matter, and more broadly, the development of new radiation detection techniques with a variety of applications.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
