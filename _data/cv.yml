@@ -28,24 +28,12 @@
     - title: Panofsky Fellow (Associate Staff Scientist)
       institution: SLAC National Accelerator Laboratory
       year: 2022 - Present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Postdoctoral Researcher
       institution: Stanford University
       year: 2018-2022
-      description:
-        - PI Giorgio Gratta
-        - Description 2.
     - title: Lawrence Graduate Scholar
       institution: Lawrence Livermore National Laboratory
       year: 2014-2018
-      description:
-        Conducted PhD research in Rare Event Detection Group at LLNL.
 
 - title: Honors and Awards
   type: time_table
@@ -61,23 +49,9 @@
     - title: Lawrence Graduate Scholar Fellowship
       year: 2014-2018
       description:
-        - Four years of support for research performed in residence at LLNL.
+        - Four years of support for research performed in residence at LLNL
     - title: Graduate Assistance in Areas of National Need (GAANN)
+
       year: 2013
 
-- title: Talks
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Panofsky Fellow, SLAC National Accelerator Laboratory</a>
 
@@ -9,16 +9,21 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Menlo Park, CA 94305</p>
+    <p>Room xxx, B84</p>
+    <p>SLAC National Accelerator Laboratory</p>
+    <p>Menlo Park, CA 94025</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an experimental physicist studying fundamental particles and their interactions. In particular, I specialize in the development of instrumentation and techniques for ultra-low-background experiments searching for rare processes. My primary project at present is the nEXO experiment, which will search for the neutrinoless double beta decay of $^{136}$Xe using a liquid xenon time projection chamber (TPC). I am also involved in the development of detectors to search for coherent elastic neutrino-nucleus scattering (CE$\nu$NS) and WIMP dark matter, and more broadly, the development of new radiation detection techniques with a variety of applications.
+I'm an experimental physicist studying fundamental particles and their interactions. I work in the [Fundamental Physics Directorate at SLAC](https://sites.slac.stanford.edu/fundamental-physics/). My research is centered around some of the big open questions in fundamental physics: 
+  - Why is the universe full of matter and not antimatter? 
+  - What is the nature of dark matter?
+  - How do neutrinos obtain their masses?
+  - Is lepton number conserved?
+  - What else can next-generation particle physics experiments teach us about the cosmos?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Most of my work to date has focused on developing hardware and software for experiments searching for rare phenomena using liquid xenon time projection chambers (TPCs), a highly-scalable detector technology that allows 3D imaging of interactions and enables extremely low-background searches for new physics. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My primary focus at present is the nEXO experiment, a next-generation search for neutrinoless double beta decay in <sup>136</sup>Xe. I am also involved in the development of low-threshold xenon detectors to search for WIMP dark matter and possibly for coherent elastic neutrino-nucleus scatter (CE&nu;NS), and more broadly, the development of new radiation detection techniques with a variety of applications. You can learn more about my various projects on my [Research](/projects/) page. 
