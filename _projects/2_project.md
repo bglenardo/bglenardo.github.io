@@ -1,24 +1,23 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Nuclear reactions @ TUNL
+description: Charge-exchange experiments to study the nuclear structure of <sup>136</sup>Cs
+img: assets/img/TUNL_pn_illustration.jpg
 importance: 2
-category: work
+category: Ongoing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The isotope <sup>136</sup>Cs is of great interest for a variety of reasons: it is the intermediate nucleus in the double-beta-decay of <sup>136</sup>Xe, and it is the isotope that gets produced by charged-current reactions on <sup>136</sup>Xe. To remedy this, we are engaged in a series of experiments at Triangle Universities Nuclear Laboratory (TUNL) in Durham, NC that will characterterize the level scheme and relaxation of excited states in <sup>136</sup>Cs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Collaborators:
+Dr. Scott Haselschwardt (Lawrence Berkeley Laboratory)
+Prof. Tim Daniels (University of North Carolina, Wilmington)
+Dr. Sean Finch (Duke University / TUNL)
+Dr. Forrest Friesen (Duke University / TUNL)
+Ethan Mancil (Duke Unviersty / TUNL)
+Prof. Calvin Howell (Duke Unviersity / TUNL)
+Prof. Werner Tornow (Duke University / TUNL)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

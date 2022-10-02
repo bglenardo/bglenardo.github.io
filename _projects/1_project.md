@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: nEXO
+description: Next-generation search for neutrinoless double beta decay in <sup>136</sup>Xe.
+img: assets/img/nexo_sensitivity_mbb_vs_mmin.jpg
 importance: 1
-category: work
+category: Ongoing
 ---
 
 Every project has a beautiful feature showcase page.
