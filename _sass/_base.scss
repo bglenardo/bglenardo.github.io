@@ -19,6 +19,9 @@ table {
   td {
     font-size: 1rem;
   }
+  th {
+    white-space: nowrap;
+  }
 }
 
 a, table.table a {
