@@ -4,7 +4,7 @@
 
 "PhysRevLett":
   url: https://journals.aps.org/prl
-  color: "#00369f"
+  color: "#B71C1C"
 
 "PhysRevD":
   url: https://journals.aps.org/prd
@@ -12,20 +12,28 @@
 
 "PhysRevC":
   url: https://journals.aps.org/prc
-  color: "#00369f"
+  color: "#2698BA"
 
 "JINST":
   url: https://jinst.sissa.it
-  color: "#00369f"
+  color: "#006f1c"
 
 "NIM A":
   url: https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-a-accelerators-spectrometers-detectors-and-associated-equipment
-  color: "#00369f"
+  color: "#a15e00"
 
 "EPJ C":
   url: https://www.springer.com/journal/10052
-  color: "#00369f"
+  color:  "#b0195d"
 
 "AstropartPhys":
   url: https://www.sciencedirect.com/journal/astroparticle-physics
-  color: "#00369f"
+  color:  "#11D68B"
+
+"JPhysG":
+  url: https://iopscience.iop.org/journal/0954-3899
+  color:  "#B509AC"
+
+"IEEE TNS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=23
+  color:  "#757575"

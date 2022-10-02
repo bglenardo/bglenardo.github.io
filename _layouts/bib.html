@@ -41,10 +41,8 @@
           {%- for author in entry.author_array limit: author_array_limit -%}
             {%- assign author_is_self = false -%}
             {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-            {%- if site.scholar.last_name contains author_last_name -%}
-              {%- if site.scholar.first_name contains author.first -%}
+            {%- if author_last_name contains "nard" -%}
                 {%- assign author_is_self = true -%}
-              {%- endif -%}
             {%- endif -%}
             {%- assign coauthor_url = nil -%}
             {%- if site.data.coauthors[author_last_name] -%}
@@ -101,6 +99,9 @@
                 }, '{{site.more_authors_animation_delay}}');
                 "
             >{{more_authors_hide}}</span>
+          {%- endif -%}
+          {%- if entry.collaboration -%}
+                {{" ("}}{{entry.collaboration}}{{" Collaboration)"}}
           {%- endif -%}
 
           </div>
