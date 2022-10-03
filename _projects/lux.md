@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: page_with_biblio
 title: LUX
 description: The Large Underground Xenon (LUX) experiment was a dark matter detector that operated from 2013-2016 at the Sanford Undergrond Research Facility in Lead, SD.
 img: assets/img/LUX_PMT_array.jpg
+project_tag: LUX
 importance: 2
 category: Past
 ---

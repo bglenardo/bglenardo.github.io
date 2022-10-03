@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page_with_biblio
 title: XeNeu @ LLNL
 description: Dual-phase xenon detector R&D for dark matter and neutrino detection.
 img: assets/img/XeNeu_field_cage_photo.png
 importance: 3
 category: Ongoing
+project_tag: XeNeu
 ---
 
 <i>Under construction</i>

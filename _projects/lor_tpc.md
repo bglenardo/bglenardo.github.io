@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: page_with_biblio
 title: LOr TPCs
 description: (Gratta Group @ Stanford) Research and development of time projection chambers (TPCs) using room-temperature organic liquids as a detection medium.
+project_tag: LOr
 img: assets/img/TMS_tpc_half_full.jpg
 importance: 1
 category: Past

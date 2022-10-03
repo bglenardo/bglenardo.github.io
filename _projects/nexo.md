@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: page_with_biblio
 title: nEXO
 description: Next-generation search for neutrinoless double beta decay in <sup>136</sup>Xe.
 img: assets/img/nexo_sensitivity_mbb_vs_mmin.jpg
 importance: 1
+project_tag: nEXO
 category: Ongoing
 ---
 

@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page_with_biblio
 title: Nuclear reactions @ TUNL
 description: Charge-exchange experiments to study the nuclear structure of <sup>136</sup>Cs
 img: assets/img/TUNL_pn_illustration.jpg
 importance: 2
 category: Ongoing
+project_tag: tunl_cs136
 ---
 
 <i>Under construction</i>
