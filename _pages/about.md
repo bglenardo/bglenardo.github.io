@@ -11,6 +11,7 @@ profile:
   address: >
     <p>Room xxx, B84</p>
     <p>SLAC National Accelerator Laboratory</p>
+    <p>2575 Sand Hill Rd</p>
     <p>Menlo Park, CA 94025</p>
 
 news: true  # includes a list of news items
