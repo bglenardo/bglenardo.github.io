@@ -1,7 +1,7 @@
 ---
 layout: page_with_biblio
-title: Other ideas
-description: New ideas for scientific applications of next-generation detectors.
+title: Other projects
+description: New ideas for next-generation detectors.
 img: assets/img/mbb_vs_mec_wittwegetal.jpg
 importance: 4
 project_tag: misc

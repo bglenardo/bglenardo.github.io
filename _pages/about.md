@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <a href='#'>Panofsky Fellow, SLAC National Accelerator Laboratory</a>
 
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room xxx, B84</p>
+    <p>Room B212, Building 084</p>
     <p>SLAC National Accelerator Laboratory</p>
     <p>2575 Sand Hill Rd</p>
     <p>Menlo Park, CA 94025</p>
