@@ -33,10 +33,10 @@ The XeNeu program is a detector R&D effort to characterize dual-phase xenon dete
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/xeneu_charge_yield_low_e.jpg" title="charge_yield" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/xenu_tunl_spectrum.jpg" title="charge_yield" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="caption">
-            Measurements of nuclear recoil charge yields with XeNeu down to the level of single ionization electrons (~0.3 keV). Published in <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.231106">PhysRevLett.123.231106</a> (2019).
+            Nuclear recoil spectra measured with XeNeu, with sensitivity down to the level of single ionization electrons (~0.3 keV). Published in <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.231106">PhysRevLett.123.231106</a> (2019).
         </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
