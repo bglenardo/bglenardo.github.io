@@ -13,7 +13,7 @@ project_tag: tunl_cs136
     </div>
 </div>
 <div class="caption">
-    Photo of the end of our beamline at TUNL, with four high-purity germanium (HPGe) detectors surrounding the target for the detection of gamma rays. (Photo: Sean Finch)
+    Photo of the beamline and <sup>136</sup>Xe target chamber at TUNL. The target is surrounded by four high-purity germanium (HPGe) detectors for the detection of gamma rays. (Photo: Sean Finch)
 </div>
 
 <br>
