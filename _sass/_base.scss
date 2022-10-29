@@ -36,6 +36,10 @@ a, table.table a {
   }
 }
 
+.inline {
+  display: inline
+}
+
 figure, img {
   max-width: 90vw;
 }
@@ -54,6 +58,8 @@ blockquote {
   margin-bottom: 1rem;
   text-align: center;
 }
+
+
 
 // Caption
 
@@ -440,6 +446,7 @@ footer.sticky-bottom {
     .row {
       display: flex;
       align-items: center;
+      text-justify: inter-word;
     }
   }
 

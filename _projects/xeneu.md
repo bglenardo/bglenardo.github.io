@@ -1,7 +1,7 @@
 ---
 layout: page_with_biblio
 title: XeNeu @ LLNL
-description: Dual-phase xenon detector R&D for dark matter and neutrino detection.
+description: Dual-phase xenon detector R&D for dark matter searches.
 img: assets/img/XeNeu_field_cage_photo.png
 importance: 3
 category: Ongoing
@@ -13,10 +13,13 @@ Dual-phase xenon time projection chambers (TPCs) are a leading technology in dir
 
 The XeNeu program is a detector R&D effort to characterize dual-phase xenon detectors in ways that extend their reach to a wider array of possible dark matter candidates. The experimental platform is a prototype dual-phase xenon TPC that we built while I was a graduate student at Lawrence Livermore National Laboratory (LLNL).
 
-#### Neutron scattering calibration experiments
+<br>
+
+#### <strong>Neutron scattering calibration experiments</strong>
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        The primary goal of the XeNeu program is to calibrate the observable signals (ionization and scintillation) produced by nuclear recoils in liquid xenon, in regimes that are not well characterized by existing data. Our measurements benchmark the signals expected from dark matter particles in a wider range of models, allowing xenon-based experiments like LZ and XENON to extend their physics reach into new parameter space.
+        The primary goal of the XeNeu program is to calibrate the observable signals (ionization and scintillation) produced by nuclear recoils in liquid xenon, in regimes that are not well characterized by existing data. This is done using elastically scattered neutrons produced by either an accelerator source or standalone neutron generators. By collimating the incoming neutrons and tagging the outgoing neutrons with external detectors, we create fixed-energy nuclear recoils in the liquid xenon and calibrate its response to the types of signals we expect from dark matter interactions. 
+        <!-- Our measurements benchmark the signals expected from dark matter particles in a wider range of models, allowing xenon-based experiments like LZ and XENON to extend their physics reach into new parameter space. -->
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         <div class="col-sm mt-3 mt-md-0">
@@ -37,21 +40,28 @@ The XeNeu program is a detector R&D effort to characterize dual-phase xenon dete
         </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        In 2019, we brought the XeNeu detector to the Triangle Universities Nuclear Laboratory (TUNL) to perform calibration measurements at lower energies than had ever been achieved. We successfully measured nuclear recoil signals down to single ionization electrons -- characterizing liquid xenon response at the absolute detection limit! These results enable xenon detectors to search for dark matter particles at lower masses, specifically down to about ~1 GeV (roughly the mass of the proton).
+        In 2019, we brought the XeNeu detector to the Triangle Universities Nuclear Laboratory (TUNL) to perform calibration measurements at lower energies than had ever been achieved. We successfully measured nuclear recoil signals down to single ionization electrons -- characterizing liquid xenon response at the absolute detection limit! These results enable xenon detectors to search for dark matter particles at lower masses than were previously accessible, down to about ~1 GeV (roughly the mass of the proton).
         <!-- <br>
         <br> -->
         <!-- More recently, we performed higher-energy (>100 keV) calibration measurements using a DT neutron generator at LLNL (<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.052013">PhysRevD.106.052013</a>). These data help model the signals from more exotic dark matter models, such as <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.043502">inelastically-scattering dark matter</a> or dark matter with <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2013/02/004">momentum-dependent interactions</a>, for which low-energy recoils may be suppressed. -->
     </div>
 </div>
-<div class="row">
-More recently, we performed higher-energy (>100 keV) calibration measurements using a DT neutron generator at LLNL (<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.052013">PhysRevD.106.052013</a>). These data help model the signals from more exotic dark matter models, such as <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.043502">inelastically-scattering dark matter</a> or dark matter with <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2013/02/004">momentum-dependent interactions</a>, for which low-energy recoils may be suppressed.
+<div class="inline">
+More recently, we performed higher-energy (>100 keV) calibration measurements using a DT neutron generator at LLNL (<a class="inline" href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.052013">PRD.106.052013</a>). These measurements will allow improved modeling of signals from more exotic dark matter models for which low-energy recoils may be suppressed. These include models of <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.043502">inelastically-scattering dark matter</a> or dark matter with <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2013/02/004">momentum-dependent interactions</a>.
+
+<!-- Inelastic DM:
+<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.043502">[ref]</a>
+Momentum-dependent DM:
+<a href="https://iopscience.iop.org/article/10.1088/1475-7516/2013/02/004">[ref]</a> -->
+
 </div>
 
-#### Other detector R&D
+<br>
 
+#### <strong>Other detector R&D</strong>
 <div class="row">
     <div class="col-sm-7 mt-3 mt-md-0">
-        In addition to calibration measurements, we also perform basic detector R&D that is important for interpreting the results of the large dark matter experiments. At right, I show a measurement of the efficiency for extracting electrons from liquid xenon into the gas phase that we published in 2019. The extraction efficiency plays an important role in the overall efficiency for detecting ionization signals in experiments like LZ.
+        In addition to calibration measurements, we also perform basic detector R&D that is important for understanding detector performance in dark matter experiments. At right, I show a measurement of the efficiency for extracting electrons from liquid xenon into the gas phase that we published in 2019. The extraction efficiency plays an important role in the overall efficiency for detecting ionization signals in experiments like LZ.
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
         <div class="col-sm mt-3 mt-md-0">
@@ -66,7 +76,7 @@ More recently, we performed higher-energy (>100 keV) calibration measurements us
 
 
 
-#### Past/present collaborators
+#### <strong>Past/present collaborators</strong>
 <ul>
     <li>Dr. Jingke Xu (LLNL)</li>
     <li>Dr. Adam Bernstein (LLNL)</li>

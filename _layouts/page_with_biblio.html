@@ -13,8 +13,10 @@ layout: default
             {{ content }}
           </article>
 
+          <br>
+          
           <div class="publications">
-            <h2>Related publications</h2>
+            <h2><strong>Related publications</strong></h2>
             {% bibliography -f papers -q @*[project_tag={{ page.project_tag }}]* %}
           </div>
           

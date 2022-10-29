@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room B212, Building 084</p>
-    <p>SLAC National Accelerator Laboratory</p>
+    <p>SLAC National Accelerator Lab</p>
     <p>2575 Sand Hill Rd</p>
     <p>Menlo Park, CA 94025</p>
 

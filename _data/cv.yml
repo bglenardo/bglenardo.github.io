@@ -9,12 +9,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, Experimental Particle Physics
       institution: University of California, Davis
       year: 2018
       description:
-        - <b>Advisor</b> Professor Mani Tripathi
-        - <b>Thesis</b> <i> Measurements and modeling of nuclear recoils in liquid xenon for dark matter and neutrino detection </i>
+        - <b>Advisor:</b> Professor Mani Tripathi
+        - <b>Thesis:</b> <i> Measurements and modeling of nuclear recoils in liquid xenon for dark matter and neutrino detection </i>
     - title: Masters of Science
       institution: University of California, Davis
       year: 2013
@@ -22,7 +22,7 @@
       institution: University of Maryland, College Park
       year: 2012
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Panofsky Fellow (Associate Staff Scientist)
@@ -35,13 +35,29 @@
       institution: Lawrence Livermore National Laboratory
       year: 2014-2018
 
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Volunteer faculty
+      institution: Mount Tamalpais College (San Quentin State Prison)
+      year: 2019 - Present
+      description:
+        - Lead instructor / curriculum developer for Intro to Astronomy, Spring 2022
+        - Instructor / study group leader for Elementary Algebra; Spring 2019, Spring 2020, Fall 2021
+    - title: Teaching Assistant
+      institution: UC Davis
+      year: 2012 - 2013
+      description:
+        - General physics for non-majors
+
+
 - title: Honors and Awards
   type: time_table
   contents:
     - title: Panofsky Fellowship
       year: 2022-2027 
       description:
-        - 5-year research fellowship
+        - 5-year research fellowship at SLAC
     - title: Karl Van Bibber Postdoctoral Fellowship
       year: 2018-2019
       description:
@@ -54,4 +70,18 @@
 
       year: 2013
 
-
+- title: Invited seminars and colloquiua
+  type: list
+  contents:
+    - University of New Mexico, <em>Department of Physics Colloquium</em>, April 15, 2022
+    - University of British Columbia, <em>Special Colloquium</em>, February 14, 2022
+    - University of Texas at Austin, <em>Department of Physics Colloquium</em>, January 25, 2022
+    - Penn State University, <em>HEPAP/CMA Seminar</em>, February 1, 2022
+    - SLAC National Accelerator Lab, <em>Fundamental Physics Division Seminar</em>, November 23, 2021
+    - Yale University, <em>Wright Lab Nuclear, Particle, and Astrophysics Seminar</em>, May 6, 2021
+    - Texas A&M University, <em>Physics and Astronomy Colloquium</em>, April 5, 2021
+    - Caltech, <em>High Energy Physics Seminar</em>, March 24, 2021
+    - LZ Collaboration, <em>All-Hands Meeting</em>, October 26, 2020
+    - SuperCDMS Collaboration, <em>General Science Meeting</em>, October 19, 2019
+    - Stanford University, <em>HEPL Seminar</em>, March 21, 2018
+    - MIT, <em>Laboratory for Nuclear Science Lunchtime Seminar</em>, October 17, 2017
