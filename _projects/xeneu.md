@@ -32,15 +32,23 @@ The XeNeu program is a detector R&D effort to characterize dual-phase xenon dete
 </div>
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/xenu_tunl_spectrum.jpg" title="charge_yield" class="img-fluid rounded z-depth-1" %}
+        <div class="col-sm-1 mt-3 mt-md-0">
         </div>
-        <div class="caption">
-            Nuclear recoil spectra measured with XeNeu, with sensitivity down to the level of single ionization electrons (~0.3 keV). Published in <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.231106">PhysRevLett.123.231106</a> (2019).
+        <div class="col-sm-10 mt-3 mt-md-0">
+            <div class="col-sm mt-3 mt-md-0">
+                {% include figure.html path="assets/img/xenu_tunl_spectrum.jpg" title="charge_yield" class="img-fluid rounded z-depth-1" %}
+            </div>
+            <div class="caption">
+                Nuclear recoil spectra measured with XeNeu, showing signals down to the level of single ionization electrons (~0.3 keV).
+            </div>
+        </div>
+        <div class="col-sm-1 mt-3 mt-md-0">
         </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        In 2019, we brought the XeNeu detector to the Triangle Universities Nuclear Laboratory (TUNL) to perform calibration measurements at lower energies than had ever been achieved. We successfully measured nuclear recoil signals down to single ionization electrons -- characterizing liquid xenon response at the absolute detection limit! These results enable xenon detectors to search for dark matter particles at lower masses than were previously accessible, down to about ~1 GeV (roughly the mass of the proton).
+        <div class="inline">
+            In 2019, we brought the XeNeu detector to the Triangle Universities Nuclear Laboratory (TUNL) to perform calibration measurements at lower energies than had ever been achieved. We successfully measured nuclear recoil signals down to single ionization electrons -- characterizing liquid xenon response at the absolute detection limit! These results enable xenon detectors to search for dark matter particles at lower masses than were previously accessible, down to about ~1 GeV (roughly the mass of the proton). These results were published in <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.231106">PhysRevLett.123.231106 (2019)</a>.
+        </div>
         <!-- <br>
         <br> -->
         <!-- More recently, we performed higher-energy (>100 keV) calibration measurements using a DT neutron generator at LLNL (<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.052013">PhysRevD.106.052013</a>). These data help model the signals from more exotic dark matter models, such as <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.043502">inelastically-scattering dark matter</a> or dark matter with <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2013/02/004">momentum-dependent interactions</a>, for which low-energy recoils may be suppressed. -->
